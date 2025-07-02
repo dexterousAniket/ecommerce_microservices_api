@@ -3,7 +3,7 @@ This is an e-commerce microservices project built using Spring Boot and Spring C
 
 
 # Architecture Diagram
-![image](https://github.com/dexterousAniket/ecommerce_microservices_api/blob/main/app_architecture_v1.png)
+![image](https://github.com/dexterousAniket/ecommerce_microservices_api/blob/main/app_architecture_v2.png)
 
 
 # μServices
